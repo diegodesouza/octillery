@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "core/components/Checkbox/CSCheckbox.story.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
